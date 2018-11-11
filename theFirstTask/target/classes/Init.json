@@ -1,0 +1,7 @@
+{"flowers":[{"name":"Rose","color":"Red","stackLength":30,"daysOfExistence":5,"price":50.5},
+  {"name":"Azalea","color":"Purple","stackLength":35,"daysOfExistence":2,"price":50.3},
+  {"name":"Tulip","color":"Yellow","stackLength":40,"daysOfExistence":3,"price":30.2},
+  {"name":"Tulip","color":"Red","stackLength":33,"daysOfExistence":1,"price":30.2}],
+  "accessories":[{"name":"Ribbon","price":3.4},
+    {"name":"GreetingCard","price":13.1}],
+  "bouquetCost":177.7}

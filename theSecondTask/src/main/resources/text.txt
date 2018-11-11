@@ -1,0 +1,33 @@
+﻿You might observe that the heap isn’t in fact a conveyor belt, and if you treat it that way,
+you’ll start paging memory—moving it on and off disk, so that you can appear to have more
+memory than you actually do. Paging significantly impacts performance. Eventually, after
+you create enough objects, you’ll run out of memory. The trick is that the garbage collector
+steps in, and while it collects the garbage it compacts all the objects in the heap so that you’ve
+effectively moved the “heap pointer” closer to the beginning of the conveyor belt and farther
+away from a page fault. The garbage collector rearranges things and makes it possible for the
+high-speed, infinite-free-heap model to be used while allocating storage.
+
+To understand garbage collection in Java, it’s helpful learn how garbage-collection schemes
+work in other systems. A simple but slow garbage-collection technique is called reference
+counting. This means that each object contains a reference counter, and every time a
+reference is attached to that object, the reference count is increased. Every time a reference
+goes out of scope or is set to null, the reference count is decreased. Thus, managing
+reference counts is a small but constant overhead that happens throughout the lifetime of
+your program. The garbage collector moves through the entire list of objects, and when it
+finds one with a reference count of zero it releases that storage (however, reference counting
+schemes often release an object as soon as the count goes to zero). The one drawback is that
+if objects circularly refer to each other they can have nonzero reference counts while still
+being garbage. Locating such self-referential groups requires significant extra work for the
+garbage collector. Reference counting is commonly used to explain one kind of garbage
+collection, but it doesn’t seem to be used in any JVM implementations.
+
+In faster schemes, garbage collection is not based on reference counting. Instead, it is based
+on the idea that any non-dead object must ultimately be traceable back to a reference that
+lives either on the stack or in static storage. The chain might go through several layers of
+objects. Thus, if you start in the stack and in the static storage area and walk through all the
+references, you’ll find all the live objects. For each reference that you find, you must trace
+into the object that it points to and then follow all the references in that object, tracing into
+the objects they point to, etc., until you’ve moved through the entire Web that originated with
+the reference on the stack or in static storage. Each object that you move through must still
+be alive. Note that there is no problem with detached self-referential groups—these are
+simply not found, and are therefore automatically garbage.

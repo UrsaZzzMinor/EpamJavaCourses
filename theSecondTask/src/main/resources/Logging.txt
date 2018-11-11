@@ -1,0 +1,80 @@
+2018-11-11 19:14:21 INFO  TextService:32 - "Parsing text on elements completed..."
+2018-11-11 19:14:21 INFO  TextService:94 - "The Most frequent word ": The that meets in 8 sentences.
+2018-11-11 19:15:35 ERROR IOService:27 - "Sorry, You've got FileNotFoundException..."
+2018-11-11 19:20:18 ERROR IOService:27 - "Sorry, You've got FileNotFoundException..."
+2018-11-11 19:20:18 ERROR TextService:35 - "Sorry, You've got a NullPointerException ..."
+2018-11-11 19:21:29 ERROR IOService:27 - "Sorry, You've got FileNotFoundException..."
+2018-11-11 19:21:29 ERROR TextService:35 - "Sorry, You've got a NullPointerException ..."
+2018-11-11 19:29:13 ERROR IOService:27 - "Sorry, You've got FileNotFoundException..."
+2018-11-11 19:29:13 ERROR TextService:35 - "Sorry, You've got a NullPointerException ..."
+2018-11-11 19:29:13 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:29:13 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:33:10 ERROR IOService:27 - "Sorry, You've got FileNotFoundException..."
+2018-11-11 19:33:10 ERROR TextService:35 - "Sorry, You've got a NullPointerException ..."
+2018-11-11 19:33:10 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:33:10 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:36:35 ERROR IOService:27 - "Sorry, You've got FileNotFoundException..."
+2018-11-11 19:36:35 ERROR TextService:35 - "Sorry, You've got a NullPointerException ..."
+2018-11-11 19:36:35 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:36:35 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:36:35 ERROR TextService:107 - "Sorry, You've got a a NullPointerException ...please, make sure that You've already initialized the text!
+2018-11-11 19:36:56 ERROR IOService:27 - "Sorry, You've got FileNotFoundException..."
+2018-11-11 19:36:56 ERROR TextService:35 - "Sorry, You've got a NullPointerException ..."
+2018-11-11 19:38:24 ERROR IOService:27 - "Sorry, You've got FileNotFoundException..."
+2018-11-11 19:38:24 ERROR TextService:35 - "Sorry, You've got a NullPointerException ..."
+2018-11-11 19:38:24 ERROR TextService:103 - "Sorry, You've got a a NullPointerException ...please, make sure that You've already initialized the text!
+2018-11-11 19:38:24 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:38:24 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:38:24 ERROR TextService:112 - "Sorry, You've got a a NullPointerException ...please, make sure that You've already initialized the text!
+2018-11-11 19:38:40 ERROR IOService:27 - "Sorry, You've got FileNotFoundException..."
+2018-11-11 19:38:40 ERROR TextService:35 - "Sorry, You've got a NullPointerException ..."
+2018-11-11 19:38:40 ERROR TextService:103 - "Sorry, You've got a a NullPointerException ...please, make sure that You've already initialized the text!
+2018-11-11 19:38:40 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:38:40 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:38:40 ERROR TextService:112 - "Sorry, You've got a a NullPointerException ...please, make sure that You've already initialized the text!
+2018-11-11 19:39:05 ERROR IOService:27 - "Sorry, You've got FileNotFoundException..."
+2018-11-11 19:39:05 ERROR TextService:35 - "Sorry, You've got a NullPointerException ..."
+2018-11-11 19:39:05 ERROR TextService:103 - "Sorry, You've got a a NullPointerException ...please, make sure that You've already initialized the text!
+2018-11-11 19:39:05 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:39:05 ERROR Text:53 - "Sorry, You've got a NullPointerEsception ..."
+2018-11-11 19:39:05 ERROR TextService:112 - "Sorry, You've got a a NullPointerException ...please, make sure that You've already initialized the text!
+2018-11-11 19:39:29 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 19:39:29 INFO  TextService:100 - The Most frequent word is "The" that meets in 8 sentences.
+2018-11-11 19:40:58 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 19:40:58 INFO  TextService:100 - The Most frequent word is "The" that meets in 8 sentences.
+2018-11-11 19:41:30 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 19:41:30 INFO  TextService:100 - The Most frequent word is "The" that meets in 8 sentences.
+2018-11-11 19:47:33 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 19:47:33 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 21:58:43 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:05:10 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:24:19 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:28:32 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:29:42 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:29:42 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:29:50 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:29:50 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:29:50 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:29:50 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:29:50 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:36:39 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:36:39 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:36:54 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:36:54 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:36:54 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:36:54 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:36:54 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:43:06 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:43:07 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:43:18 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:43:18 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:43:18 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:43:18 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:43:18 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:55:45 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:55:45 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:55:56 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:55:56 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:55:56 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 22:55:56 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 22:55:56 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
