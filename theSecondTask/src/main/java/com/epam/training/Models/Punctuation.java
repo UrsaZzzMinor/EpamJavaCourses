@@ -1,6 +1,6 @@
-package Models;
+package com.epam.training.Models;
 
-import interfaces.ITextEntity;
+import com.epam.training.interfaces.ITextEntity;
 //Leaf
 public class Punctuation implements ITextEntity<String> {
     private String content;
@@ -36,7 +36,7 @@ public class Punctuation implements ITextEntity<String> {
 
     @Override
     public String print() {
-        return null;
+        return content;
     }
 
 }

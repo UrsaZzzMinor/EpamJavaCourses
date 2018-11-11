@@ -78,3 +78,42 @@
 2018-11-11 22:55:56 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
 2018-11-11 22:55:56 INFO  TextService:33 - "Parsing text on elements completed..."
 2018-11-11 22:55:56 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:26:20 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:26:20 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:26:58 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:26:58 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:27:17 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:27:17 INFO  TextService:100 - The Most frequent word is "The" that meets in 8 sentences.
+2018-11-11 23:27:35 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:27:35 INFO  TextService:100 - The Most frequent word is "для" that meets in 3 sentences.
+2018-11-11 23:28:01 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:28:01 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:28:54 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:28:54 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:28:54 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:28:54 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:28:54 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:31:15 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:31:15 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:31:15 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:31:15 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:31:15 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:32:56 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:32:56 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:32:56 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:32:56 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:32:56 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:36:33 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:36:33 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:36:42 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:36:42 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:36:42 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:36:42 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:36:42 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:37:34 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:37:34 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:37:42 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:37:42 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:37:42 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.
+2018-11-11 23:37:42 INFO  TextService:33 - "Parsing text on elements completed..."
+2018-11-11 23:37:43 INFO  TextService:100 - The Most frequent word is "the" that meets in 13 sentences.

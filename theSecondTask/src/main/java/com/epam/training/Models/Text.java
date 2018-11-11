@@ -1,6 +1,6 @@
-package Models;
+package com.epam.training.Models;
 
-import interfaces.ITextEntity;
+import com.epam.training.interfaces.ITextEntity;
 import org.apache.log4j.Logger;
 
 import java.util.ArrayList;
@@ -46,9 +46,9 @@ public class Text implements ITextEntity<Sentence> {
         try {
             StringBuilder stringBuilder = new StringBuilder();
             for (Sentence sentence : sentences) {
-                stringBuilder.append(sentence.toString());
+                stringBuilder.append(sentence.print());
             }
-            return stringBuilder.append(punctuation.getContent()).toString();
+            return stringBuilder.append(punctuation.print()).toString();
         } catch (NullPointerException e){
             logger.error("\"Sorry, You've got a NullPointerException ...\"");
         }

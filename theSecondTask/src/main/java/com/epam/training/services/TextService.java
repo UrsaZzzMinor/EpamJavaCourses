@@ -1,9 +1,9 @@
-package services;
+package com.epam.training.services;
 
-import Models.Punctuation;
-import Models.Sentence;
-import Models.Text;
-import Models.Word;
+import com.epam.training.Models.Punctuation;
+import com.epam.training.Models.Sentence;
+import com.epam.training.Models.Text;
+import com.epam.training.Models.Word;
 import org.apache.log4j.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

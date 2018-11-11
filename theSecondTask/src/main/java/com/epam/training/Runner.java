@@ -1,6 +1,8 @@
-import Models.Text;
-import services.IOService;
-import services.TextService;
+package com.epam.training;
+
+import com.epam.training.Models.Text;
+import com.epam.training.services.IOService;
+import com.epam.training.services.TextService;
 
 public class Runner {
 

@@ -1,6 +1,6 @@
-package Models;
+package com.epam.training.Models;
 
-import interfaces.ITextEntity;
+import com.epam.training.interfaces.ITextEntity;
 //Leaf
 public class Word implements ITextEntity<String> {
     private String content;
@@ -29,7 +29,7 @@ public class Word implements ITextEntity<String> {
 
     @Override
     public String print() {
-        return new StringBuilder(content).append(punctuation.toString()).toString();
+        return new StringBuilder(content).append(punctuation.print()).toString();
     }
 
     public Punctuation getPunctuation() {

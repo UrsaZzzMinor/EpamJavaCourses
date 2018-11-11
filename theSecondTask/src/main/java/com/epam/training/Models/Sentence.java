@@ -1,6 +1,6 @@
-package Models;
+package com.epam.training.Models;
 
-import interfaces.ITextEntity;
+import com.epam.training.interfaces.ITextEntity;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -45,9 +45,9 @@ public class Sentence implements ITextEntity<Word> {
 
     @Override
     public String print() {
-        StringBuilder stringBuilder = new StringBuilder(punctuation.toString());
+        StringBuilder stringBuilder = new StringBuilder(punctuation.print());
         for (Word word: words) {
-            stringBuilder.append(word.toString());
+            stringBuilder.append(word.print());
         }
         return stringBuilder.toString();
     }

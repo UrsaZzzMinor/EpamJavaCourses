@@ -1,7 +1,9 @@
-import Models.Text;
+package com.epam.training;
+
+import com.epam.training.Models.Text;
 import org.testng.annotations.BeforeMethod;
-import services.IOService;
-import services.TextService;
+import com.epam.training.services.IOService;
+import com.epam.training.services.TextService;
 
 public class BaseTest {
     private Text text;
