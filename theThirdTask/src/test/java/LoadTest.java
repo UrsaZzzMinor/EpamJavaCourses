@@ -20,7 +20,7 @@ public class LoadTest extends BaseTest{
         //When
         getHarborService().load(getShips().get(2).getCapacity());
         int result = getHarbor().getStorageLoadedGoods();
-                //Then
+        //Then
         Assert.assertEquals(expected, result);
     }
 
