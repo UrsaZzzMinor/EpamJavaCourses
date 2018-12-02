@@ -1,0 +1,272 @@
+2018-12-02 13:54:56 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:54:56 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:54:56 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:54:56 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:56:30 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:56:30 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:56:30 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:56:30 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:56:52 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:56:52 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:56:52 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 13:56:52 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:04:33 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:04:33 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:04:33 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:04:33 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:04:33 INFO  HarborService:33 - Brig : got the permit! Free wharfs : 1
+2018-12-02 14:04:33 INFO  HarborService:33 - Fregat : got the permit! Free wharfs : 0
+2018-12-02 14:04:33 INFO  HarborService:68 - Brig is unloading!
+2018-12-02 14:04:33 INFO  HarborService:27 - Brig released! Available Semaphore permits now: 0
+2018-12-02 14:04:33 INFO  HarborService:42 - Fregat is loading!
+2018-12-02 14:04:33 INFO  HarborService:33 - Caravella : got the permit! Free wharfs : 0
+2018-12-02 14:04:33 INFO  HarborService:27 - Fregat released! Available Semaphore permits now: 1
+2018-12-02 14:04:33 INFO  HarborService:42 - Caravella is loading!
+2018-12-02 14:04:33 INFO  HarborService:27 - Caravella released! Available Semaphore permits now: 1
+2018-12-02 14:04:33 INFO  HarborService:33 - Fregat2 : got the permit! Free wharfs : 1
+2018-12-02 14:04:34 INFO  HarborService:68 - Fregat2 is unloading!
+2018-12-02 14:04:34 INFO  HarborService:27 - Fregat2 released! Available Semaphore permits now: 2
+2018-12-02 14:05:11 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:05:11 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:05:11 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:05:11 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:05:11 INFO  HarborService:33 - Caravella : got the permit! Free wharfs : 0
+2018-12-02 14:05:11 INFO  HarborService:33 - Fregat : got the permit! Free wharfs : 0
+2018-12-02 14:05:11 INFO  HarborService:42 - Caravella is loading!
+2018-12-02 14:05:11 INFO  HarborService:27 - Caravella released! Available Semaphore permits now: 1
+2018-12-02 14:05:11 INFO  HarborService:42 - Fregat is loading!
+2018-12-02 14:05:11 INFO  HarborService:27 - Fregat released! Available Semaphore permits now: 0
+2018-12-02 14:05:11 INFO  HarborService:33 - Brig : got the permit! Free wharfs : 1
+2018-12-02 14:05:12 INFO  HarborService:33 - Fregat2 : got the permit! Free wharfs : 0
+2018-12-02 14:05:12 INFO  HarborService:68 - Brig is unloading!
+2018-12-02 14:05:12 INFO  HarborService:27 - Brig released! Available Semaphore permits now: 1
+2018-12-02 14:05:12 INFO  HarborService:68 - Fregat2 is unloading!
+2018-12-02 14:05:12 INFO  HarborService:27 - Fregat2 released! Available Semaphore permits now: 2
+2018-12-02 14:09:39 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:09:39 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:09:39 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:09:39 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:09:39 INFO  HarborService:35 - Fregat : got the permit! Free wharfs : 1
+2018-12-02 14:09:39 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 0
+2018-12-02 14:09:39 INFO  HarborService:44 - Fregat is loading!
+2018-12-02 14:09:39 INFO  HarborService:59 - Fregat loaded!
+2018-12-02 14:09:39 INFO  HarborService:29 - Fregat released! Available Semaphore permits now: 1
+2018-12-02 14:09:40 INFO  HarborService:35 - Fregat2 : got the permit! Free wharfs : 0
+2018-12-02 14:09:40 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 14:09:40 INFO  HarborService:59 - Caravella loaded!
+2018-12-02 14:09:40 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 1
+2018-12-02 14:09:40 INFO  HarborService:70 - Fregat2 is unloading!
+2018-12-02 14:09:40 INFO  HarborService:85 - Fregat2 unloaded!
+2018-12-02 14:09:40 INFO  HarborService:29 - Fregat2 released! Available Semaphore permits now: 1
+2018-12-02 14:09:40 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 1
+2018-12-02 14:09:40 INFO  HarborService:70 - Brig is unloading!
+2018-12-02 14:09:40 INFO  HarborService:85 - Brig unloaded!
+2018-12-02 14:09:40 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 2
+2018-12-02 14:10:34 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:10:34 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:10:34 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:10:34 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:10:34 INFO  HarborService:35 - Fregat2 : got the permit! Free wharfs : 0
+2018-12-02 14:10:34 INFO  HarborService:35 - Fregat : got the permit! Free wharfs : 0
+2018-12-02 14:10:35 INFO  HarborService:70 - Fregat2 is unloading!
+2018-12-02 14:10:35 INFO  HarborService:85 - Fregat2 unloaded!
+2018-12-02 14:10:35 INFO  HarborService:29 - Fregat2 released! Available Semaphore permits now: 1
+2018-12-02 14:10:35 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 0
+2018-12-02 14:10:35 INFO  HarborService:44 - Fregat is loading!
+2018-12-02 14:10:35 INFO  HarborService:59 - Fregat loaded!
+2018-12-02 14:10:35 INFO  HarborService:29 - Fregat released! Available Semaphore permits now: 1
+2018-12-02 14:10:35 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 14:10:35 INFO  HarborService:59 - Caravella loaded!
+2018-12-02 14:10:35 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 1
+2018-12-02 14:10:35 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 0
+2018-12-02 14:10:35 INFO  HarborService:70 - Brig is unloading!
+2018-12-02 14:10:35 INFO  HarborService:85 - Brig unloaded!
+2018-12-02 14:10:35 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 2
+2018-12-02 14:11:20 INFO  HarborService:44 - main is loading!
+2018-12-02 14:11:20 INFO  HarborService:59 - main loaded!
+2018-12-02 14:11:20 INFO  HarborService:44 - main is loading!
+2018-12-02 14:11:20 INFO  HarborService:59 - main loaded!
+2018-12-02 14:11:20 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:11:20 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 14:11:21 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 1
+2018-12-02 14:11:21 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 0
+2018-12-02 14:11:21 INFO  HarborService:70 - Brig is unloading!
+2018-12-02 14:11:21 INFO  HarborService:85 - Brig unloaded!
+2018-12-02 14:11:21 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 1
+2018-12-02 14:11:21 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 14:11:21 INFO  HarborService:59 - Caravella loaded!
+2018-12-02 14:11:21 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 2
+2018-12-02 14:11:21 INFO  HarborService:70 - main is unloading!
+2018-12-02 14:11:21 INFO  HarborService:85 - main unloaded!
+2018-12-02 14:11:21 INFO  HarborService:70 - main is unloading!
+2018-12-02 14:11:21 INFO  HarborService:85 - main unloaded!
+2018-12-02 15:13:32 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 15:13:32 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 15:13:32 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 15:13:32 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 15:13:32 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 1
+2018-12-02 15:13:32 INFO  HarborService:35 - Fregat : got the permit! Free wharfs : 0
+2018-12-02 15:13:33 INFO  HarborService:69 - Brig is unloading!
+2018-12-02 15:13:33 INFO  HarborService:83 - Brig unloaded!
+2018-12-02 15:13:33 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 1
+2018-12-02 15:13:33 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 0
+2018-12-02 15:13:33 INFO  HarborService:44 - Fregat is loading!
+2018-12-02 15:13:33 INFO  HarborService:58 - Fregat loaded!
+2018-12-02 15:13:33 INFO  HarborService:29 - Fregat released! Available Semaphore permits now: 1
+2018-12-02 15:13:33 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 15:13:33 INFO  HarborService:58 - Caravella loaded!
+2018-12-02 15:13:33 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 1
+2018-12-02 15:13:33 INFO  HarborService:35 - Fregat2 : got the permit! Free wharfs : 1
+2018-12-02 15:13:33 INFO  HarborService:69 - Fregat2 is unloading!
+2018-12-02 15:13:33 INFO  HarborService:83 - Fregat2 unloaded!
+2018-12-02 15:13:33 INFO  HarborService:29 - Fregat2 released! Available Semaphore permits now: 2
+2018-12-02 15:39:15 INFO  HarborService:44 - main is loading!
+2018-12-02 15:39:15 INFO  HarborService:58 - main loaded!
+2018-12-02 15:39:15 INFO  HarborService:44 - main is loading!
+2018-12-02 15:39:15 INFO  HarborService:58 - main loaded!
+2018-12-02 15:39:15 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 15:39:15 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 15:39:15 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 1
+2018-12-02 15:39:15 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 0
+2018-12-02 15:39:15 INFO  HarborService:69 - Brig is unloading!
+2018-12-02 15:39:15 INFO  HarborService:83 - Brig unloaded!
+2018-12-02 15:39:15 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 1
+2018-12-02 15:39:16 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 15:39:16 INFO  HarborService:58 - Caravella loaded!
+2018-12-02 15:39:16 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 2
+2018-12-02 15:39:16 INFO  HarborService:69 - main is unloading!
+2018-12-02 15:39:16 INFO  HarborService:83 - main unloaded!
+2018-12-02 15:39:16 INFO  HarborService:69 - main is unloading!
+2018-12-02 15:39:16 INFO  HarborService:83 - main unloaded!
+2018-12-02 16:38:56 INFO  HarborService:44 - main is loading!
+2018-12-02 16:38:56 INFO  HarborService:58 - main loaded!
+2018-12-02 16:38:56 INFO  HarborService:44 - main is loading!
+2018-12-02 16:38:56 INFO  HarborService:58 - main loaded!
+2018-12-02 16:38:56 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:38:56 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:38:57 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 0
+2018-12-02 16:38:57 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 1
+2018-12-02 16:38:57 INFO  HarborService:69 - Brig is unloading!
+2018-12-02 16:38:57 INFO  HarborService:83 - Brig unloaded!
+2018-12-02 16:38:57 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 1
+2018-12-02 16:38:57 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 16:38:57 INFO  HarborService:58 - Caravella loaded!
+2018-12-02 16:38:57 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 2
+2018-12-02 16:38:57 INFO  HarborService:69 - main is unloading!
+2018-12-02 16:38:57 INFO  HarborService:83 - main unloaded!
+2018-12-02 16:38:57 INFO  HarborService:69 - main is unloading!
+2018-12-02 16:38:57 INFO  HarborService:83 - main unloaded!
+2018-12-02 16:41:19 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:41:19 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:41:19 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:41:19 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:41:19 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 1
+2018-12-02 16:41:19 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 0
+2018-12-02 16:41:19 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 16:41:19 INFO  HarborService:58 - Caravella loaded!
+2018-12-02 16:41:19 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 1
+2018-12-02 16:41:19 INFO  HarborService:35 - Fregat : got the permit! Free wharfs : 0
+2018-12-02 16:41:19 INFO  HarborService:69 - Brig is unloading!
+2018-12-02 16:41:19 INFO  HarborService:83 - Brig unloaded!
+2018-12-02 16:41:19 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 1
+2018-12-02 16:41:19 INFO  HarborService:44 - Fregat is loading!
+2018-12-02 16:41:19 INFO  HarborService:58 - Fregat loaded!
+2018-12-02 16:41:19 INFO  HarborService:29 - Fregat released! Available Semaphore permits now: 1
+2018-12-02 16:41:19 INFO  HarborService:35 - Fregat2 : got the permit! Free wharfs : 1
+2018-12-02 16:41:20 INFO  HarborService:69 - Fregat2 is unloading!
+2018-12-02 16:41:20 INFO  HarborService:83 - Fregat2 unloaded!
+2018-12-02 16:41:20 INFO  HarborService:29 - Fregat2 released! Available Semaphore permits now: 2
+2018-12-02 16:42:00 INFO  HarborService:44 - main is loading!
+2018-12-02 16:42:00 INFO  HarborService:58 - main loaded!
+2018-12-02 16:42:00 INFO  HarborService:44 - main is loading!
+2018-12-02 16:42:00 INFO  HarborService:58 - main loaded!
+2018-12-02 16:42:00 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:42:00 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:42:01 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 1
+2018-12-02 16:42:01 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 0
+2018-12-02 16:42:01 INFO  HarborService:69 - Brig is unloading!
+2018-12-02 16:42:01 INFO  HarborService:83 - Brig unloaded!
+2018-12-02 16:42:01 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 1
+2018-12-02 16:42:01 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 16:42:01 INFO  HarborService:58 - Caravella loaded!
+2018-12-02 16:42:01 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 2
+2018-12-02 16:42:01 INFO  HarborService:69 - main is unloading!
+2018-12-02 16:42:01 INFO  HarborService:83 - main unloaded!
+2018-12-02 16:42:01 INFO  HarborService:69 - main is unloading!
+2018-12-02 16:42:01 INFO  HarborService:83 - main unloaded!
+2018-12-02 16:50:58 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:50:58 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:50:58 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:50:58 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:50:58 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 0
+2018-12-02 16:50:58 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 0
+2018-12-02 16:50:58 INFO  HarborService:69 - Brig is unloading!
+2018-12-02 16:50:58 INFO  HarborService:83 - Brig unloaded!
+2018-12-02 16:50:58 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 1
+2018-12-02 16:50:58 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 16:50:58 INFO  HarborService:58 - Caravella loaded!
+2018-12-02 16:50:58 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 1
+2018-12-02 16:50:58 INFO  HarborService:35 - Fregat2 : got the permit! Free wharfs : 1
+2018-12-02 16:50:58 INFO  HarborService:35 - Fregat : got the permit! Free wharfs : 0
+2018-12-02 16:50:58 INFO  HarborService:69 - Fregat2 is unloading!
+2018-12-02 16:50:58 INFO  HarborService:83 - Fregat2 unloaded!
+2018-12-02 16:50:58 INFO  HarborService:29 - Fregat2 released! Available Semaphore permits now: 1
+2018-12-02 16:50:59 INFO  HarborService:44 - Fregat is loading!
+2018-12-02 16:50:59 INFO  HarborService:58 - Fregat loaded!
+2018-12-02 16:50:59 INFO  HarborService:29 - Fregat released! Available Semaphore permits now: 2
+2018-12-02 16:51:46 INFO  HarborService:44 - main is loading!
+2018-12-02 16:51:46 INFO  HarborService:58 - main loaded!
+2018-12-02 16:51:46 INFO  HarborService:44 - main is loading!
+2018-12-02 16:51:46 INFO  HarborService:58 - main loaded!
+2018-12-02 16:51:46 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:51:46 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:51:47 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 1
+2018-12-02 16:51:47 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 0
+2018-12-02 16:51:47 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 16:51:47 INFO  HarborService:58 - Caravella loaded!
+2018-12-02 16:51:47 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 1
+2018-12-02 16:51:47 INFO  HarborService:69 - Brig is unloading!
+2018-12-02 16:51:47 INFO  HarborService:83 - Brig unloaded!
+2018-12-02 16:51:47 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 2
+2018-12-02 16:51:47 INFO  HarborService:69 - main is unloading!
+2018-12-02 16:51:47 INFO  HarborService:83 - main unloaded!
+2018-12-02 16:51:47 INFO  HarborService:69 - main is unloading!
+2018-12-02 16:51:47 INFO  HarborService:83 - main unloaded!
+2018-12-02 16:59:00 INFO  Ship:26 - Fregat2 : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:59:00 INFO  Ship:26 - Fregat : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:59:00 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:59:00 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:59:00 INFO  HarborService:35 - Fregat2 : got the permit! Free wharfs : 1
+2018-12-02 16:59:00 INFO  HarborService:35 - Fregat : got the permit! Free wharfs : 0
+2018-12-02 16:59:00 INFO  HarborService:69 - Fregat2 is unloading!
+2018-12-02 16:59:00 INFO  HarborService:83 - Fregat2 unloaded!
+2018-12-02 16:59:00 INFO  HarborService:29 - Fregat2 released! Available Semaphore permits now: 0
+2018-12-02 16:59:00 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 0
+2018-12-02 16:59:00 INFO  HarborService:44 - Fregat is loading!
+2018-12-02 16:59:00 INFO  HarborService:58 - Fregat loaded!
+2018-12-02 16:59:00 INFO  HarborService:29 - Fregat released! Available Semaphore permits now: 1
+2018-12-02 16:59:00 INFO  HarborService:69 - Brig is unloading!
+2018-12-02 16:59:00 INFO  HarborService:83 - Brig unloaded!
+2018-12-02 16:59:00 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 1
+2018-12-02 16:59:00 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 1
+2018-12-02 16:59:01 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 16:59:01 INFO  HarborService:58 - Caravella loaded!
+2018-12-02 16:59:01 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 2
+2018-12-02 16:59:33 INFO  HarborService:44 - main is loading!
+2018-12-02 16:59:33 INFO  HarborService:58 - main loaded!
+2018-12-02 16:59:33 INFO  HarborService:44 - main is loading!
+2018-12-02 16:59:33 INFO  HarborService:58 - main loaded!
+2018-12-02 16:59:33 INFO  Ship:26 - Caravella : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:59:33 INFO  Ship:26 - Brig : acquiring lock... : available Semaphore permits now: 2
+2018-12-02 16:59:33 INFO  HarborService:35 - Caravella : got the permit! Free wharfs : 1
+2018-12-02 16:59:33 INFO  HarborService:35 - Brig : got the permit! Free wharfs : 0
+2018-12-02 16:59:33 INFO  HarborService:44 - Caravella is loading!
+2018-12-02 16:59:33 INFO  HarborService:58 - Caravella loaded!
+2018-12-02 16:59:33 INFO  HarborService:29 - Caravella released! Available Semaphore permits now: 1
+2018-12-02 16:59:33 INFO  HarborService:69 - Brig is unloading!
+2018-12-02 16:59:33 INFO  HarborService:83 - Brig unloaded!
+2018-12-02 16:59:33 INFO  HarborService:29 - Brig released! Available Semaphore permits now: 2
+2018-12-02 16:59:34 INFO  HarborService:69 - main is unloading!
+2018-12-02 16:59:34 INFO  HarborService:83 - main unloaded!
+2018-12-02 16:59:34 INFO  HarborService:69 - main is unloading!
+2018-12-02 16:59:34 INFO  HarborService:83 - main unloaded!
